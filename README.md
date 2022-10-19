@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tan Wentao
+- 👋 Hi, I’m Tan Wentao.
 - 👀 I’m interested in Multi-modal learning, Information Retrieval.
 - 🌱 I’m currently focusing on Incremental learning.
 - 📫 How to reach me tan.wt.lucky@gmail.com
