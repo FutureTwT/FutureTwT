@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Tan Wentao.
-- 👀 I’m interested in Multi-modal learning, Information Retrieval.
-- 🌱 I’m currently focusing on Incremental learning.
-- 📫 How to reach me tan.wt.lucky@gmail.com
+- 👀 I’m interested in Multi-modal Learning, Information Retrieval.
+- 🌱 I’m currently focusing on Incremental Learning.
+- 📫 How to reach me tan.wt.lucky@gmail.com.
+
+![Tan Wentao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FutureTwT&show_icons=true&hide_border=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FutureTwT&theme=cobalt)
 
 <!---
 FutureTwT/FutureTwT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
