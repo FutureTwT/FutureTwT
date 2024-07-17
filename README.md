@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tan Wentao.
-- 👀 I’m interested in Multi-modal Learning, Information Retrieval.
-- 🌱 I’m currently focusing on Incremental Learning.
+- 👀 I’m interested in Embodied AI, General Robot Policy, Multi-modal Learning, Information Retrieval.
+- 🌱 I’m currently focusing on General Robot Policy and VLA models.
 - 📫 How to reach me tan.wt.lucky@gmail.com.
 
 ![Tan Wentao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FutureTwT&show_icons=true&hide_border=true&theme=cobalt)
